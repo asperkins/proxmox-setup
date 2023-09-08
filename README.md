@@ -1,6 +1,7 @@
 Install ProxMox with mostly default settings.
 Add ve respositories and update apt
 Install pve-headers
+https://forum.proxmox.com/threads/install-of-pcie-drivers-for-coral-tpu.95503/
 
 Adding NAS storage
 https://markontech.com/proxmox/add-synology-nas-to-proxmox-with-nfs/
